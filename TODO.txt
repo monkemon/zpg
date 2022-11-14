@@ -1,0 +1,5 @@
+TODO:
+	uprav resize okna - pridej callback, nastaveni viewportu a perspektivy
+	modely dedi z base Renderable
+	
+	

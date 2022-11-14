@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lender", "Lender\Lender.vcxproj", "{324A2F0E-F812-48A6-ACE0-B5100DFDD963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Debug|x64.ActiveCfg = Debug|x64
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Debug|x64.Build.0 = Debug|x64
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Debug|x86.ActiveCfg = Debug|Win32
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Debug|x86.Build.0 = Debug|Win32
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Release|x64.ActiveCfg = Release|x64
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Release|x64.Build.0 = Release|x64
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Release|x86.ActiveCfg = Release|Win32
+		{324A2F0E-F812-48A6-ACE0-B5100DFDD963}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22B2746-BFB4-4450-ADAC-E0E2A40F73F6}
+	EndGlobalSection
+EndGlobal
